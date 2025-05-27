@@ -17,7 +17,31 @@ YRelaxedSku是一款自动化获取京东(JD)商品好评率的工具，帮助�
 
 ## 🛠️ 使用指南
 
-下载EXE程序，运行即可。
+
+1、下载EXE程序，运行。
+
+
+![image](https://github.com/user-attachments/assets/ab03b4aa-5d9f-4cdc-b622-239d67a49afc)
+
+
+2、输入密钥激活，点击关于查看。
+![image](https://github.com/user-attachments/assets/8c6c7bc3-039a-4ac9-ab78-823b3c8b03eb)
+
+
+
+3、点击展开账号池，扫码登陆账号。  
+![image](https://github.com/user-attachments/assets/e4877c5f-11b5-4fd6-9611-f15b27b8d590)
+
+![image](https://github.com/user-attachments/assets/46fdb906-87c3-432e-b48a-2ef131cd2979)
+
+
+
+
+
+4、导入SKU，点击查询。
+
+
+
 
 ## 🔑 密钥配置
 - ⏱️ 有效期：2025-5-31
