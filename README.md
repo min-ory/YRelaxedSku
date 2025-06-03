@@ -49,7 +49,7 @@ YRelaxedSku是一款自动化获取京东(JD)商品好评率的工具，帮助�
 
 
 
-## :ambulance: 密钥过期，请联系邮箱。
+## :ambulance: 密钥过期，请联系邮箱,免费获取。
 邮箱：yrelaxedsku@uioio.com
 
 
